@@ -32,5 +32,20 @@
  <li>Finally Deployment Render!</li>
  <p><b>LOGIN FUNCTION</b></p>
  
+ ![WhatsApp Image 2024-04-07 at 12 00 53](https://github.com/mrigankabrahma/chat-app/assets/88397563/e61f78ec-b3c3-4c01-ba6f-3d5f16977d87)
+
+ <p><b>SIGN UP</b></p>
+ ![WhatsApp Image 2024-04-07 at 12 01 28](https://github.com/mrigankabrahma/chat-app/assets/88397563/21a537d9-eea8-424e-96e4-fc5a2989ad07)
+
+
+<p>CHAT APP</p>
+
+
+
+ 
+
+ 
+
+
  
 
